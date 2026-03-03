@@ -54,4 +54,3 @@ class _PaginaContadorState extends State<PaginaContador> {
     );
   }
 
-}
