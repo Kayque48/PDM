@@ -26,7 +26,7 @@ class Contatos extends StatelessWidget {
           ListTile(
             title: Text(contato1[0]),
             trailing: IconButton(
-              icon: Icon(Icons.arrow_forward),
+              icon: Icon(Icons.phone_sharp),
               onPressed: () {
                 Navigator.push(
                   context,
@@ -43,7 +43,7 @@ class Contatos extends StatelessWidget {
           ListTile(
             title: Text(contato2[0]),
             trailing: IconButton(
-              icon: Icon(Icons.arrow_forward),
+              icon: Icon(Icons.phone_sharp),
               onPressed: () {
                 Navigator.push(
                   context,
@@ -60,7 +60,7 @@ class Contatos extends StatelessWidget {
           ListTile(
             title: Text(contato3[0]),
             trailing: IconButton(
-              icon: Icon(Icons.arrow_forward),
+              icon: Icon(Icons.phone_sharp),
               onPressed: () {
                 Navigator.push(
                   context,
